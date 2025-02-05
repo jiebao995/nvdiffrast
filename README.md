@@ -5,12 +5,12 @@ This repo is forked from https://github.com/NVlabs/nvdiffrast. Used to replicate
 
 Summary of added files:
 
-* [samples/](./nvdiffrast/samples)
-  * [data/](./nvdiffrast/samples/data)
-    * [suzanne.obj](./nvdiffrast/samples/data/suzanne.obj)
-  * [torch/](./nvdiffrast/samples/torch)
-    * [optimize_suzanne.py](./nvdiffrast/samples/torch/optimize_suzanne.py)
-    * [test_viz_suzanne.py](./nvdiffrast/samples/torch/test_viz_suzanne.py)
+* [samples/](./samples)
+  * [data/](./samples/data)
+    * [suzanne.obj](./samples/data/suzanne.obj)
+  * [torch/](./samples/torch)
+    * [optimize_suzanne.py](./samples/torch/optimize_suzanne.py)
+    * [test_viz_suzanne.py](./samples/torch/test_viz_suzanne.py)
 
 The build setup is the same as the original work. Please refer to the official documentation.
 

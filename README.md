@@ -1,15 +1,16 @@
 ## Nvdiffrast &ndash; Modular Primitives for High-Performance Differentiable Rendering
 
-This repo is forked from https://github.com/NVlabs/nvdiffrast.
+### Description
+This repo is forked from https://github.com/NVlabs/nvdiffrast. Used to replicate the same experimente and for future needs.
 
 Summary of added files:
 
-* [samples/](.\nvdiffrast\samples)
-  * [data/](.\nvdiffrast\samples\data)
-    * [suzanne.obj](.\nvdiffrast\samples\data\suzanne.obj)
-  * [torch/](.\nvdiffrast\samples\torch)
-    * [optimize_suzanne.py](.\nvdiffrast\samples\torch\optimize_suzanne.py)
-    * [test_viz_suzanne.py](.\nvdiffrast\samples\torch\test_viz_suzanne.py)
+* [samples/](./nvdiffrast/samples)
+  * [data/](./nvdiffrast/samples/data)
+    * [suzanne.obj](./nvdiffrast/samples/data/suzanne.obj)
+  * [torch/](./nvdiffrast/samples/torch)
+    * [optimize_suzanne.py](./nvdiffrast/samples/torch/optimize_suzanne.py)
+    * [test_viz_suzanne.py](./nvdiffrast/samples/torch/test_viz_suzanne.py)
 
 The build setup is the same as the original work. Please refer to the official documentation.
 

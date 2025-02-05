@@ -4,7 +4,6 @@ This repo is forked from https://github.com/NVlabs/nvdiffrast.
 
 Summary of added files:
 
-# nvdiffrast
 * [samples/](.\nvdiffrast\samples)
   * [data/](.\nvdiffrast\samples\data)
     * [suzanne.obj](.\nvdiffrast\samples\data\suzanne.obj)
